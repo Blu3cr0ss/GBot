@@ -4,34 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcc0f541-b6d2-4c91-8527-c86716a8dc85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/idk/bluecross/GBot/CommandsManager.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/idk/bluecross/GBot/Globals.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/idk/bluecross/GBot/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/idk/bluecross/GBot/event/discord4j/EventHandler.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/idk/bluecross/GBot/event/discord4j/PlayerEvents.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/idk/bluecross/GBot/modules/Command.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/idk/bluecross/GBot/modules/LavaPlayerAudioProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/idk/bluecross/GBot/modules/Player.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/idk/bluecross/GBot/modules/SongQueueManager.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/idk/bluecross/GBot/util/D4J.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/idk/bluecross/GBot/util/Logger.kt" afterDir="false" />
+    <list default="true" id="fcc0f541-b6d2-4c91-8527-c86716a8dc85" name="Changes" comment="first heroku commit">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,6 +157,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668788722171</updated>
     </task>
+    <task id="LOCAL-00001" summary="first heroku commit">
+      <created>1669010773825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669010773825</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,5 +177,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first heroku commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first heroku commit" />
   </component>
 </project>

@@ -24,6 +24,10 @@ dependencies {
     implementation 'ch.qos.logback:logback-classic:1.4.4'
 }
 
+tasks.create("stage") {
+    dependsOn("installDist")
+}
+
 compileKotlin {
     kotlinOptions.jvmTarget = '1.8'
 }
