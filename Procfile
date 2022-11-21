@@ -1,1 +1,1 @@
-deploy:gradlew run
+wev: gradlew run
