@@ -1,1 +1,1 @@
-wev: gradlew run
+web: gradlew run
