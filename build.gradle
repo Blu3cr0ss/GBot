@@ -8,7 +8,7 @@ var mainClass = 'idk.bluecross.GBot.MainKt'
 
 group = 'idk.bluecross'
 version = '1.0-SNAPSHOT'
-sourceCompatibility = '17'
+sourceCompatibility = '1.8'
 
 repositories {
     mavenCentral()
@@ -29,7 +29,7 @@ tasks.create("stage") {
 }
 
 compileKotlin {
-    kotlinOptions.jvmTarget = '17'
+    kotlinOptions.jvmTarget = '1.8'
 }
 
 application {

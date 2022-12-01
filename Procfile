@@ -1,1 +1,0 @@
-web: echo hi && gradle run
