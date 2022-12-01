@@ -1,1 +1,1 @@
-web: gradlew run
+web: echo hi && gradle run
