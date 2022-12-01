@@ -2,4 +2,4 @@
 buildCommand = "gradle build"
 
 [deploy]
-startCommand = "echo 'hi (new)!' && java -version && cd ./build/libs && GBot_token=MTA0MzIwMzUxNDY5Mzg2MTQ0MQ.GyN8Mb.BHIje0D9kNfCccTR6ELIIWEma_9tK0Y56rgUas; java -jar GBot-1.0-SNAPSHOT-all.jar && cd ../.."
+startCommand = "echo 'hi (new)!' && java -version && ./gradlew run"
