@@ -2,4 +2,4 @@
 buildCommand = "gradle build"
 
 [deploy]
-startCommand = "echo 'hi (new)!' && java -version && ./gradlew run"
+startCommand = "echo 'hi (new)!' && java -version && gradle run"
