@@ -1,5 +1,5 @@
 [build]
-buildCommand = "./gradlew build"
+buildCommand = "echo build lol"
 
 [deploy]
 startCommand = "echo starting"
